@@ -33,7 +33,7 @@ I’m a full stack software engineer with a passion for clean UIs, purposeful UX
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="REST API (Swagger)" title="REST API (Swagger)" width="40" height="40"/>
 </p>
 
