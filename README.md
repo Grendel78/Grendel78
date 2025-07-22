@@ -56,7 +56,7 @@ Here are some of the tools and technologies I work with regularly:
 
 - 🌐 [joedyfelts.com](https://www.joedyfelts.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joedyfelts/)
-- 🧰 [My Resume](https://www.joedyfelts.com/#resume)
+- 🧰 [My Resume](https://www.joedyfelts.com/assets/joedy_felts_resume-BZwiLVIp.pdf)
 - ✉️ joedyfelts@gmail.com
 
 Thanks for stopping by! 👨‍💻
