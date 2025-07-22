@@ -6,7 +6,7 @@ I’m a full stack software engineer with a passion for clean UIs, purposeful UX
 - 🧰 Toolbelt: React, TypeScript, Node.js, GraphQL, PHP, and AWS (Lambda, S3, CloudFront).
 - 🎨 Design-aware: Component architecture, state management, accessibility-first mindset.
 - 🚀 Always learning: Experimenting with new tech, exploring how thoughtful code elevates human experiences.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python.
 
 ---
 
@@ -34,7 +34,7 @@ I’m a full stack software engineer with a passion for clean UIs, purposeful UX
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" alt="REST APIs" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="REST API (Swagger)" width="40" height="40"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@ I’m a full stack software engineer with a passion for clean UIs, purposeful UX
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 </p>
 
