@@ -6,7 +6,7 @@ I’m a full stack software engineer with a passion for clean UIs, purposeful UX
 - 🧰 Toolbelt: React, TypeScript, Node.js, GraphQL, PHP, and AWS (Lambda, S3, CloudFront).
 - 🎨 Design-aware: Component architecture, state management, accessibility-first mindset.
 - 🚀 Always learning: Experimenting with new tech, exploring how thoughtful code elevates human experiences.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Ruby on Rails.
 
 ---
 
